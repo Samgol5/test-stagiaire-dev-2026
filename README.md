@@ -1,4 +1,4 @@
-# Test Stagiaire Dev pour ADEC Aslb
+# Test Stagiaire Dev pour ADEC Asbl
 
 ## Description
 Projet de test technique pour stage développeur.
